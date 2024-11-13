@@ -44,12 +44,12 @@ Puede ver la presentación en [[Presentaciones sobre la Educación en Argentina]
 1. Levantar el archivo "datos_alumnos.csv" y solicitar: `Utiliza estos datos de prueba para generar un informe sobre Educación de Argentina que no supere las 5 paginas, armando una tabla estadistica descriptiva, incluye referencias.`
 2. Dentro del **Repositorio de Github**, en el README agregar:
    * `## 1. Utilizando Write for me en ChatGPT
-            Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)**]`
+            Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6734b32c-ad34-800b-b101-bdd8406256e9)**]`
 
 ### Con "Gamma.app" [[Gamma](https://gamma.app)]
 1. Utilizar el informe realizado por Write for me y pegar en la app `https://gamma.app/create/paste` que no tenga más de 5 tarjetas.
 2. Copiar en enlace ahora aquí:
-   * Puedes ver la presentación del Informe: [[Presentaciones sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE GAMMA.APP)**]`
+   * Puedes ver la presentación del Informe: [[Presentaciones sobre la Educación en Argentina](https://gamma.app/docs/Educacion-en-Argentina-7go2p6l7rds7tnk)**]`
   
 ## ENVIO DEL EXAMEN
 [Pulsar aquí para enviar examen](https://forms.gle/Z9VaE5KzdLJJMzW68)
